@@ -1,0 +1,1973 @@
+.learn-page {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.learn-page .div {
+  width: 1440px;
+  height: 7020px;
+  position: relative;
+}
+
+.learn-page .div-topbannersection {
+  position: absolute;
+  width: 1440px;
+  height: 154px;
+  top: 72px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(1, 5, 41) 0%, rgb(21, 52, 101) 100%);
+}
+
+.learn-page .div-bannersection {
+  position: relative;
+  height: 154px;
+}
+
+.learn-page .heading-learn {
+  width: 51px;
+  height: 22px;
+  top: 23px;
+  left: 73px;
+  color: #f7f8fa;
+  font-size: 18.9px;
+  line-height: 22px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-bannercontent {
+  position: absolute;
+  width: 1376px;
+  height: 77px;
+  top: 51px;
+  left: 73px;
+}
+
+.learn-page .p-mpara {
+  position: relative;
+  width: 1024px;
+  height: 77px;
+}
+
+.learn-page .learn-the {
+  position: absolute;
+  width: 1021px;
+  height: 68px;
+  top: 3px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #f7f8fa;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+}
+
+.learn-page .overlap {
+  position: absolute;
+  width: 1346px;
+  height: 6876px;
+  top: 226px;
+  left: 47px;
+}
+
+.learn-page .div-rightcontainer-wrapper {
+  position: absolute;
+  width: 1346px;
+  height: 6876px;
+  top: 0;
+  left: 0;
+}
+
+.learn-page .div-rightcontainer {
+  position: relative;
+  width: 1154px;
+  height: 6509px;
+  left: 102px;
+}
+
+.learn-page .heading-learn-to {
+  position: absolute;
+  width: 152px;
+  height: 27px;
+  top: 34px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  font-size: 22.5px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container {
+  position: absolute;
+  width: 1081px;
+  height: 618px;
+  top: 78px;
+  left: 24px;
+}
+
+.learn-page .div-2 {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .img {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  top: 17px;
+  left: 17px;
+}
+
+.learn-page .div-chip {
+  position: absolute;
+  width: 54px;
+  height: 20px;
+  top: 89px;
+  left: 17px;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #cfd8dc;
+}
+
+.learn-page .text-wrapper {
+  position: absolute;
+  width: 40px;
+  height: 11px;
+  top: 3px;
+  left: 7px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #455a64;
+  font-size: 9.5px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-2 {
+  width: 95px;
+  top: 114px;
+  font-size: 15.1px;
+  position: absolute;
+  height: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-3 {
+  position: absolute;
+  top: 20px;
+  left: 224px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-3 {
+  width: 57px;
+  top: 114px;
+  font-size: 15.5px;
+  position: absolute;
+  height: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-4 {
+  position: absolute;
+  top: 20px;
+  left: 448px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-4 {
+  width: 76px;
+  font-size: 15.1px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-5 {
+  position: absolute;
+  top: 20px;
+  left: 672px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-5 {
+  width: 79px;
+  top: 114px;
+  font-size: 15.4px;
+  position: absolute;
+  height: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-6 {
+  position: absolute;
+  top: 206px;
+  left: 0;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-6 {
+  width: 66px;
+  font-size: 15.2px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-7 {
+  position: absolute;
+  top: 206px;
+  left: 224px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .div-chip-hvk {
+  position: absolute;
+  width: 70px;
+  height: 20px;
+  top: 89px;
+  left: 17px;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #cfd8dc;
+}
+
+.learn-page .text-wrapper-7 {
+  position: absolute;
+  width: 56px;
+  height: 11px;
+  top: 3px;
+  left: 7px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #455a64;
+  font-size: 9.2px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-8 {
+  position: absolute;
+  width: 145px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.1px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-learning-card {
+  position: absolute;
+  width: 208px;
+  height: 170px;
+  top: 206px;
+  left: 448px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-9 {
+  width: 78px;
+  top: 114px;
+  font-size: 15.5px;
+  position: absolute;
+  height: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-learning-card-2 {
+  position: absolute;
+  top: 206px;
+  left: 672px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-10 {
+  width: 67px;
+  top: 114px;
+  font-size: 15.5px;
+  position: absolute;
+  height: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-learning-card-3 {
+  position: absolute;
+  top: 392px;
+  left: 0;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-11 {
+  width: 86px;
+  top: 114px;
+  font-size: 15.2px;
+  position: absolute;
+  height: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-learning-card-4 {
+  position: absolute;
+  top: 392px;
+  left: 224px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-12 {
+  position: absolute;
+  width: 89px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.4px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .heading-beginner {
+  position: absolute;
+  width: 152px;
+  height: 27px;
+  top: 698px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  font-size: 23.1px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-2 {
+  height: 618px;
+  top: 741px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .text-wrapper-13 {
+  width: 171px;
+  font-size: 15px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-14 {
+  width: 133px;
+  font-size: 15.1px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-15 {
+  width: 151px;
+  font-size: 15px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-16 {
+  width: 155px;
+  font-size: 15.1px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-17 {
+  width: 172px;
+  font-size: 15.2px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-18 {
+  width: 134px;
+  font-size: 15.4px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-19 {
+  width: 152px;
+  font-size: 15.2px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-20 {
+  width: 156px;
+  font-size: 15.4px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-21 {
+  width: 143px;
+  font-size: 15.4px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-22 {
+  width: 142px;
+  font-size: 15.1px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-learning-card-5 {
+  position: absolute;
+  top: 392px;
+  left: 448px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-23 {
+  width: 161px;
+  font-size: 15.1px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .div-learning-card-6 {
+  position: absolute;
+  top: 392px;
+  left: 672px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-24 {
+  width: 162px;
+  font-size: 15.2px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .heading {
+  position: absolute;
+  width: 190px;
+  height: 27px;
+  top: 1361px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  font-size: 22.5px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-3 {
+  height: 246px;
+  top: 1405px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .text-wrapper-25 {
+  position: absolute;
+  width: 163px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 14.8px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-26 {
+  position: absolute;
+  width: 45px;
+  height: 17px;
+  top: 136px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 14.4px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-27 {
+  width: 101px;
+  height: 17px;
+  top: 114px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.2px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+  position: absolute;
+  left: 17px;
+}
+
+.learn-page .heading-data {
+  position: absolute;
+  width: 151px;
+  height: 27px;
+  top: 1653px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  font-size: 22.1px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-4 {
+  height: 246px;
+  top: 1696px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .text-wrapper-28 {
+  width: 78px;
+  top: 114px;
+  font-size: 15.8px;
+  position: absolute;
+  height: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-29 {
+  width: 125px;
+  height: 17px;
+  top: 114px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.1px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+  position: absolute;
+  left: 17px;
+}
+
+.learn-page .text-wrapper-30 {
+  width: 91px;
+  height: 17px;
+  top: 114px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.5px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+  position: absolute;
+  left: 17px;
+}
+
+.learn-page .heading-web {
+  position: absolute;
+  width: 193px;
+  height: 27px;
+  top: 1944px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  font-size: 22.3px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-5 {
+  height: 246px;
+  top: 1988px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .text-wrapper-31 {
+  position: absolute;
+  width: 135px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.4px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-32 {
+  position: absolute;
+  width: 165px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.1px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-33 {
+  position: absolute;
+  width: 172px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-34 {
+  width: 75px;
+  height: 17px;
+  top: 136px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+  position: absolute;
+  left: 17px;
+}
+
+.learn-page .text-wrapper-35 {
+  width: 126px;
+  height: 17px;
+  top: 114px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.2px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+  position: absolute;
+  left: 17px;
+}
+
+.learn-page .heading-interview {
+  position: absolute;
+  width: 154px;
+  height: 27px;
+  top: 2236px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  font-size: 22.1px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-learning-card-wrapper {
+  height: 246px;
+  top: 2280px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .div-learning-card-7 {
+  position: relative;
+  top: 20px;
+  width: 208px;
+  height: 170px;
+  background-color: #f7f8fa;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e0e0e0;
+}
+
+.learn-page .text-wrapper-36 {
+  position: absolute;
+  width: 153px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.2px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .heading-college {
+  position: absolute;
+  width: 178px;
+  height: 27px;
+  top: 2528px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  font-size: 22.5px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-6 {
+  height: 432px;
+  top: 2571px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .text-wrapper-37 {
+  position: absolute;
+  width: 48px;
+  height: 17px;
+  top: 136px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-38 {
+  width: 156px;
+  font-size: 15px;
+  position: absolute;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-39 {
+  position: absolute;
+  width: 112px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 14.9px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-40 {
+  position: absolute;
+  width: 172px;
+  height: 17px;
+  top: 136px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-41 {
+  position: absolute;
+  width: 151px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 14.9px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-42 {
+  position: absolute;
+  width: 34px;
+  height: 17px;
+  top: 136px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.5px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-43 {
+  position: absolute;
+  width: 170px;
+  height: 17px;
+  top: 114px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.1px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .heading-roadmaps {
+  width: 116px;
+  height: 27px;
+  top: 3005px;
+  left: 24px;
+  color: #263238;
+  font-size: 22.9px;
+  line-height: 33.6px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-7 {
+  height: 432px;
+  top: 3049px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .text-wrapper-44 {
+  position: absolute;
+  width: 167px;
+  height: 17px;
+  top: 90px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-45 {
+  position: absolute;
+  width: 102px;
+  height: 17px;
+  top: 112px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 14.8px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-46 {
+  position: absolute;
+  width: 159px;
+  height: 17px;
+  top: 135px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-47 {
+  position: absolute;
+  width: 147px;
+  height: 17px;
+  top: 90px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-48 {
+  position: absolute;
+  width: 151px;
+  height: 17px;
+  top: 90px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.1px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-49 {
+  position: absolute;
+  width: 128px;
+  height: 17px;
+  top: 90px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.1px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-50 {
+  position: absolute;
+  width: 155px;
+  height: 17px;
+  top: 90px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 14.9px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-51 {
+  position: absolute;
+  width: 160px;
+  height: 17px;
+  top: 112px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.2px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-52 {
+  width: 104px;
+  top: 90px;
+  font-size: 14.9px;
+  position: absolute;
+  height: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-53 {
+  position: absolute;
+  width: 135px;
+  height: 17px;
+  top: 112px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .p {
+  position: absolute;
+  width: 121px;
+  height: 17px;
+  top: 135px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #424242;
+  font-size: 15.4px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .heading-c {
+  width: 18px;
+  height: 27px;
+  top: 3483px;
+  left: 24px;
+  color: #263238;
+  font-size: 24px;
+  line-height: 33.6px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-8 {
+  height: 246px;
+  top: 3526px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-c-2 {
+  width: 46px;
+  top: 3774px;
+  font-size: 21.9px;
+  position: absolute;
+  height: 27px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-9 {
+  height: 246px;
+  top: 3818px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-java {
+  width: 51px;
+  height: 27px;
+  top: 4066px;
+  left: 24px;
+  color: #263238;
+  font-size: 22.9px;
+  line-height: 33.6px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-10 {
+  height: 246px;
+  top: 4110px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-python {
+  width: 75px;
+  height: 27px;
+  top: 4358px;
+  left: 24px;
+  color: #263238;
+  font-size: 21.9px;
+  line-height: 33.6px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-11 {
+  height: 246px;
+  top: 4401px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-SQL {
+  width: 48px;
+  height: 27px;
+  top: 4649px;
+  left: 24px;
+  color: #263238;
+  font-size: 24px;
+  line-height: 33.6px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-12 {
+  height: 246px;
+  top: 4693px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-c-sharp {
+  width: 84px;
+  top: 4941px;
+  font-size: 22.7px;
+  position: absolute;
+  height: 27px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-13 {
+  height: 246px;
+  top: 4984px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-HTML-CSS {
+  position: absolute;
+  width: 182px;
+  height: 27px;
+  top: 5232px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #263238;
+  font-size: 23.1px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-14 {
+  height: 246px;
+  top: 5276px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-rust {
+  width: 50px;
+  height: 27px;
+  top: 5524px;
+  left: 24px;
+  color: #263238;
+  font-size: 23.1px;
+  line-height: 33.6px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-wrapper {
+  height: 246px;
+  top: 5568px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-go {
+  width: 32px;
+  height: 27px;
+  top: 5816px;
+  left: 24px;
+  color: #263238;
+  font-size: 23.8px;
+  line-height: 33.6px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-15 {
+  height: 246px;
+  top: 5859px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .heading-kotlin {
+  width: 60px;
+  height: 27px;
+  top: 6107px;
+  left: 24px;
+  color: #263238;
+  font-size: 22.1px;
+  line-height: 33.6px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.learn-page .div-cards-container-16 {
+  height: 246px;
+  top: 6151px;
+  position: absolute;
+  width: 1081px;
+  left: 24px;
+}
+
+.learn-page .SVG {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 6397px;
+  left: 24px;
+}
+
+.learn-page .we-d-love-to-support {
+  position: absolute;
+  width: 892px;
+  height: 16px;
+  top: 6398px;
+  left: 54px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.learn-page .link-feedback {
+  position: absolute;
+  width: 57px;
+  height: 16px;
+  top: 6398px;
+  left: 950px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #2a67b1;
+  font-size: 12.9px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.learn-page .overlap-group {
+  position: absolute;
+  width: 32px;
+  height: 16px;
+  top: 6426px;
+  left: 54px;
+}
+
+.learn-page .link-form {
+  position: absolute;
+  width: 28px;
+  height: 16px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #2a67b1;
+  font-size: 12.9px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-54 {
+  position: absolute;
+  width: 4px;
+  height: 16px;
+  top: 0;
+  left: 28px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.learn-page .footer {
+  position: absolute;
+  width: 1222px;
+  height: 348px;
+  top: 6471px;
+  left: 73px;
+  background-color: transparent;
+}
+
+.learn-page .text-wrapper-55 {
+  position: absolute;
+  top: 55px;
+  left: 92px;
+  font-family: "Rosario", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 33px;
+  letter-spacing: 0.33px;
+  line-height: normal;
+}
+
+.learn-page .q {
+  position: absolute;
+  width: 83px;
+  height: 68px;
+  top: 41px;
+  left: 7px;
+  object-fit: cover;
+}
+
+.learn-page .text-wrapper-56 {
+  position: absolute;
+  top: 63px;
+  left: 461px;
+  -webkit-text-stroke: 0.4px #000000;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-57 {
+  position: absolute;
+  top: 63px;
+  left: 731px;
+  -webkit-text-stroke: 0.4px #000000;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-58 {
+  position: absolute;
+  top: 63px;
+  left: 944px;
+  -webkit-text-stroke: 0.4px #000000;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-59 {
+  position: absolute;
+  top: 63px;
+  left: 1124px;
+  -webkit-text-stroke: 0.4px #000000;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.learn-page .skill-up-your-coding {
+  position: absolute;
+  top: 103px;
+  left: 454px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.learn-page .about-us-career {
+  position: absolute;
+  top: 112px;
+  left: 731px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.learn-page .FAQ-policy-business {
+  position: absolute;
+  top: 112px;
+  left: 944px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.learn-page .whatsapp-support {
+  position: absolute;
+  top: 112px;
+  left: 1124px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.learn-page .line {
+  width: 1200px;
+  top: -1px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.learn-page .line-2 {
+  width: 1200px;
+  top: 308px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.learn-page .text-wrapper-60 {
+  position: absolute;
+  width: 270px;
+  top: 116px;
+  left: 24px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #565656;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+
+.learn-page .facebook {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 250px;
+  left: 35px;
+}
+
+.learn-page .twitter {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 250px;
+  left: 87px;
+}
+
+.learn-page .linkedin {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 250px;
+  left: 139px;
+}
+
+.learn-page .line-3 {
+  width: 1201px;
+  top: 309px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.learn-page .text-wrapper-61 {
+  position: absolute;
+  top: 326px;
+  left: 507px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #a3a3a3;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.learn-page .header {
+  position: absolute;
+  width: 1440px;
+  height: 72px;
+  top: 0;
+  left: 0;
+  background-color: #f7f8fa;
+  box-shadow: 0px 2px 4px #00000026;
+}
+
+.learn-page .overlap-2 {
+  position: relative;
+  width: 1440px;
+  height: 72px;
+}
+
+.learn-page .div-l-header {
+  position: absolute;
+  width: 1440px;
+  height: 72px;
+  top: 0;
+  left: 0;
+}
+
+.learn-page .div-headernavigation {
+  position: relative;
+  width: 462px;
+  height: 72px;
+  top: -1px;
+  left: 489px;
+}
+
+.learn-page .link {
+  position: absolute;
+  width: 81px;
+  height: 38px;
+  top: 17px;
+  left: 20px;
+}
+
+.learn-page .text-wrapper-62 {
+  position: absolute;
+  height: 30px;
+  top: 3px;
+  left: 14px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #363636;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.4px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.learn-page .text-wrapper-63 {
+  position: absolute;
+  width: 51px;
+  height: 28px;
+  top: 21px;
+  left: 114px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #363636;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.4px;
+  line-height: 28px;
+}
+
+.learn-page .link-2 {
+  position: absolute;
+  width: 109px;
+  height: 38px;
+  top: 17px;
+  left: 200px;
+}
+
+.learn-page .text-wrapper-64 {
+  position: absolute;
+  width: 101px;
+  height: 30px;
+  top: 3px;
+  left: 8px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #363636;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.4px;
+  line-height: 30px;
+}
+
+.learn-page .text-wrapper-65 {
+  position: absolute;
+  width: 59px;
+  height: 22px;
+  top: 24px;
+  left: 348px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #1a1a1a;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.learn-page .text-wrapper-66 {
+  position: absolute;
+  top: 14px;
+  left: 93px;
+  font-family: "Rosario", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 33px;
+  letter-spacing: 0.33px;
+  line-height: normal;
+}
+
+.learn-page .q-2 {
+  position: absolute;
+  width: 83px;
+  height: 68px;
+  top: 1px;
+  left: 9px;
+  object-fit: cover;
+}
+
+.learn-page .div-m-login {
+  position: absolute;
+  width: 214px;
+  height: 34px;
+  top: 19px;
+  left: 1198px;
+}
+
+.learn-page .button-login {
+  position: absolute;
+  width: 37px;
+  height: 19px;
+  top: 6px;
+  left: 29px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2a67b1;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.learn-page .button {
+  position: absolute;
+  width: 109px;
+  height: 34px;
+  top: 0;
+  left: 105px;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #565b60;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.learn-page .text-wrapper-67 {
+  /* position: absolute; */
+  width: 15px;
+  height: 19px;
+  top: 6px;
+  left: 29px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #565b60;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}

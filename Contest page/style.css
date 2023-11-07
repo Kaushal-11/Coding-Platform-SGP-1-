@@ -1,0 +1,2646 @@
+.contest-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contest-page .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2172px;
+}
+
+.contest-page .overlap {
+  position: relative;
+  height: 2172px;
+}
+
+.contest-page .div-flex {
+  position: absolute;
+  width: 1440px;
+  height: 2172px;
+  top: 0;
+  left: 0;
+  background-color: #f7f8fa;
+}
+
+.contest-page .div-relative {
+  position: absolute;
+  width: 1004px;
+  height: 1945px;
+  top: -213px;
+  left: 218px;
+}
+
+.contest-page .overlap-group {
+  position: absolute;
+  width: 1004px;
+  height: 657px;
+  top: 342px;
+  left: 0;
+}
+
+.contest-page .div {
+  position: absolute;
+  width: 930px;
+  height: 344px;
+  top: 0;
+  left: 21px;
+}
+
+.contest-page .div-bg-layer {
+  position: absolute;
+  width: 385px;
+  height: 280px;
+  top: 12px;
+  left: 80px;
+  background-color: #ffffff;
+  border-radius: 13px;
+  box-shadow: 0px 6px 12px #00000005, 0px 4px 8px #00000005, 0px 2px 6px #0000000a;
+}
+
+.contest-page .link {
+  position: absolute;
+  width: 385px;
+  height: 84px;
+  top: 194px;
+  left: 0;
+}
+
+.contest-page .div-truncate {
+  position: absolute;
+  width: 179px;
+  height: 28px;
+  top: 15px;
+  left: 16px;
+  overflow: hidden;
+}
+
+.contest-page .text-wrapper {
+  width: 179px;
+  height: 22px;
+  top: 2px;
+  color: #262626;
+  font-size: 20px;
+  line-height: 28px;
+  position: absolute;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.contest-page .div-wrapper {
+  position: absolute;
+  width: 179px;
+  height: 22px;
+  top: 43px;
+  left: 16px;
+}
+
+.contest-page .text-wrapper-2 {
+  position: absolute;
+  width: 136px;
+  height: 16px;
+  top: 2px;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626bf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-group-wrapper {
+  position: absolute;
+  width: 385px;
+  height: 194px;
+  top: 0;
+  left: 0;
+  border-radius: 13px;
+}
+
+.contest-page .overlap-group-2 {
+  position: relative;
+  height: 194px;
+  border-radius: 13px 13px 0px 0px;
+  background-image: url(./img/weekly-default-553ede7bcc8e1b4a44c28a9e4a32068c-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .div-m {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 16px;
+  left: 337px;
+  object-fit: cover;
+}
+
+.contest-page .div-absolute {
+  position: absolute;
+  width: 385px;
+  height: 64px;
+  top: 130px;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.contest-page .SVG {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 32px;
+  left: 16px;
+}
+
+.contest-page .text-wrapper-3 {
+  position: absolute;
+  width: 52px;
+  height: 21px;
+  top: 30px;
+  left: 42px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .text-wrapper-4 {
+  position: absolute;
+  width: 93px;
+  height: 21px;
+  top: 30px;
+  left: 97px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .div-bg-layer-2 {
+  width: 385px;
+  height: 280px;
+  top: 12px;
+  left: 481px;
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 13px;
+  box-shadow: 0px 6px 12px #00000005, 0px 4px 8px #00000005, 0px 2px 6px #0000000a;
+}
+
+.contest-page .div-truncate-2 {
+  position: absolute;
+  width: 192px;
+  height: 28px;
+  top: 15px;
+  left: 16px;
+  overflow: hidden;
+}
+
+.contest-page .text-wrapper-5 {
+  width: 193px;
+  height: 22px;
+  top: 2px;
+  color: #262626;
+  font-size: 20px;
+  line-height: 28px;
+  position: absolute;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.contest-page .div-flex-2 {
+  position: absolute;
+  width: 192px;
+  height: 22px;
+  top: 43px;
+  left: 16px;
+}
+
+.contest-page .text-wrapper-6 {
+  position: absolute;
+  width: 145px;
+  height: 16px;
+  top: 2px;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626bf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-group-3 {
+  position: relative;
+  height: 194px;
+  border-radius: 13px 13px 0px 0px;
+  background-image: url(./img/biweekly-default-f5a8fc3be85b6c9175207fd8fd855d47-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .text-wrapper-7 {
+  position: absolute;
+  width: 101px;
+  height: 21px;
+  top: 30px;
+  left: 97px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .div-w-full {
+  position: absolute;
+  width: 1004px;
+  height: 317px;
+  top: 340px;
+  left: 0;
+}
+
+.contest-page .text-wrapper-8 {
+  position: absolute;
+  width: 165px;
+  height: 28px;
+  top: -1px;
+  left: 16px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.contest-page .link-SVG {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 7px;
+  left: 854px;
+}
+
+.contest-page .link-sponsor-a {
+  position: absolute;
+  width: 116px;
+  height: 21px;
+  top: 2px;
+  left: 872px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #007aff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .div-swiper {
+  position: absolute;
+  width: 972px;
+  height: 249px;
+  top: 36px;
+  left: 16px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.contest-page .overlap-2 {
+  position: absolute;
+  width: 152px;
+  height: 43px;
+  top: 188px;
+  left: 0;
+}
+
+.contest-page .overlap-group-4 {
+  position: absolute;
+  width: 152px;
+  height: 43px;
+  top: 0;
+  left: 0;
+}
+
+.contest-page .link-2 {
+  position: absolute;
+  width: 152px;
+  height: 22px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.contest-page .text-wrapper-9 {
+  width: 152px;
+  height: 19px;
+  top: 0;
+  color: #262626;
+  font-size: 17px;
+  line-height: 22px;
+  position: absolute;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.contest-page .link-ended {
+  position: absolute;
+  width: 41px;
+  height: 22px;
+  top: 21px;
+  left: 18px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-may {
+  position: absolute;
+  width: 77px;
+  height: 22px;
+  top: 21px;
+  left: 66px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c434c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .img {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 26px;
+  left: 0;
+}
+
+.contest-page .card-img-wrapper {
+  position: absolute;
+  width: 313px;
+  height: 167px;
+  top: 8px;
+  left: 0;
+  background-color: #ffffff01;
+  border-radius: 13px;
+  box-shadow: 0px 4px 12px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .card-img {
+  height: 167px;
+  border-radius: 13px;
+  background-image: url(./img/card-img-1654267951-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .overlap-3 {
+  position: absolute;
+  width: 152px;
+  height: 43px;
+  top: 188px;
+  left: 329px;
+}
+
+.contest-page .link-apr {
+  position: absolute;
+  width: 80px;
+  height: 22px;
+  top: 21px;
+  left: 66px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c434c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-3 {
+  position: absolute;
+  width: 313px;
+  height: 167px;
+  top: 8px;
+  left: 329px;
+  background-color: #ffffff01;
+  border-radius: 13px;
+  box-shadow: 0px 4px 12px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .card-img-2 {
+  height: 167px;
+  border-radius: 13px;
+  background-image: url(./img/card-img-1654267980-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .overlap-4 {
+  position: absolute;
+  width: 154px;
+  height: 43px;
+  top: 188px;
+  left: 658px;
+}
+
+.contest-page .overlap-5 {
+  position: absolute;
+  width: 154px;
+  height: 43px;
+  top: 0;
+  left: 0;
+}
+
+.contest-page .link-4 {
+  position: absolute;
+  width: 154px;
+  height: 22px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.contest-page .text-wrapper-10 {
+  width: 154px;
+  height: 19px;
+  top: 0;
+  color: #262626;
+  font-size: 17px;
+  line-height: 22px;
+  position: absolute;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.contest-page .link-aug {
+  position: absolute;
+  width: 84px;
+  height: 22px;
+  top: 21px;
+  left: 66px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c434c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-5 {
+  position: absolute;
+  width: 313px;
+  height: 167px;
+  top: 8px;
+  left: 658px;
+  background-color: #ffffff01;
+  border-radius: 13px;
+  box-shadow: 0px 4px 12px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .card-img-3 {
+  height: 167px;
+  border-radius: 13px;
+  background-image: url(./img/card-img-1659801683-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .div-bg-layer-3 {
+  width: 643px;
+  height: 946px;
+  top: 999px;
+  left: 16px;
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 13px;
+  box-shadow: 0px 6px 12px #00000005, 0px 4px 8px #00000005, 0px 2px 6px #0000000a;
+}
+
+.contest-page .div-flex-3 {
+  position: absolute;
+  width: 643px;
+  height: 36px;
+  top: 18px;
+  left: 0;
+}
+
+.contest-page .div-z-base {
+  position: absolute;
+  width: 444px;
+  height: 36px;
+  top: 0;
+  left: 16px;
+}
+
+.contest-page .div-cursor-pointer {
+  position: absolute;
+  width: 132px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  background-color: #000a200d;
+  border-radius: 8px;
+}
+
+.contest-page .text-wrapper-11 {
+  position: absolute;
+  width: 100px;
+  height: 17px;
+  top: 8px;
+  left: 16px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.contest-page .div-cursor-pointer-2 {
+  position: absolute;
+  width: 121px;
+  height: 36px;
+  top: 0;
+  left: 148px;
+  border-radius: 8px;
+}
+
+.contest-page .text-wrapper-12 {
+  position: absolute;
+  width: 89px;
+  height: 17px;
+  top: 8px;
+  left: 16px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.contest-page .div-hidden {
+  position: absolute;
+  width: 151px;
+  height: 16px;
+  top: 10px;
+  left: 476px;
+}
+
+.contest-page .SVG-2 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 2px;
+  left: 0;
+}
+
+.contest-page .what-s-a-virtual {
+  position: absolute;
+  width: 135px;
+  height: 14px;
+  top: 0;
+  left: 16px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .div-flex-4 {
+  position: absolute;
+  width: 643px;
+  height: 892px;
+  top: 54px;
+  left: 0;
+}
+
+.contest-page .div-2 {
+  position: relative;
+  height: 860px;
+  top: 11px;
+}
+
+.contest-page .link-weekly-default {
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  top: 13px;
+  left: 16px;
+  border-radius: 8px;
+  background-image: url(./img/link-weekly-default-553ede7bcc8e1b4a44c28a9e4a32068c-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-6 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 22px;
+  left: 164px;
+}
+
+.contest-page .text-wrapper-13 {
+  width: 125px;
+  height: 16px;
+  top: 2px;
+  color: #262626bf;
+  font-size: 14px;
+  line-height: 22px;
+  position: absolute;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.contest-page .link-oct {
+  position: absolute;
+  width: 132px;
+  height: 13px;
+  top: 50px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-7 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 31px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .text-wrapper-14 {
+  position: absolute;
+  width: 34px;
+  height: 14px;
+  top: 4px;
+  left: 12px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #af52de;
+  font-size: 11.8px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-weekly-default-2 {
+  top: 99px;
+  background-image: url(./img/link-weekly-default-553ede7bcc8e1b4a44c28a9e4a32068c-png.png);
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 16px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-8 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 108px;
+  left: 164px;
+}
+
+.contest-page .p {
+  position: absolute;
+  width: 132px;
+  height: 13px;
+  top: 136px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-9 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 117px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .link-biweekly {
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  top: 185px;
+  left: 16px;
+  border-radius: 8px;
+  background-image: url(./img/link-biweekly-default-f5a8fc3be85b6c9175207fd8fd855d47-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-10 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 194px;
+  left: 164px;
+}
+
+.contest-page .text-wrapper-15 {
+  width: 135px;
+  height: 16px;
+  top: 2px;
+  color: #262626bf;
+  font-size: 14px;
+  line-height: 22px;
+  position: absolute;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.contest-page .link-oct-2 {
+  position: absolute;
+  width: 133px;
+  height: 13px;
+  top: 222px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-11 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 203px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .link-weekly-default-3 {
+  top: 271px;
+  background-image: url(./img/link-weekly-default-553ede7bcc8e1b4a44c28a9e4a32068c-png.png);
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 16px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-12 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 280px;
+  left: 164px;
+}
+
+.contest-page .link-oct-3 {
+  position: absolute;
+  width: 126px;
+  height: 13px;
+  top: 308px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-13 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 289px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .link-weekly-default-4 {
+  top: 357px;
+  background-image: url(./img/link-weekly-default-553ede7bcc8e1b4a44c28a9e4a32068c-png.png);
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 16px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-14 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 366px;
+  left: 164px;
+}
+
+.contest-page .link-oct-4 {
+  position: absolute;
+  width: 126px;
+  height: 13px;
+  top: 394px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-15 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 375px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .link-biweekly-2 {
+  top: 443px;
+  background-image: url(./img/link-biweekly-default-f5a8fc3be85b6c9175207fd8fd855d47-png.png);
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 16px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-16 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 452px;
+  left: 164px;
+}
+
+.contest-page .link-sep {
+  position: absolute;
+  width: 135px;
+  height: 13px;
+  top: 480px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-17 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 461px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .link-weekly-default-5 {
+  top: 529px;
+  background-image: url(./img/link-weekly-default-553ede7bcc8e1b4a44c28a9e4a32068c-png.png);
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 16px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-18 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 538px;
+  left: 164px;
+}
+
+.contest-page .link-sep-2 {
+  position: absolute;
+  width: 135px;
+  height: 13px;
+  top: 566px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-19 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 547px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .link-weekly-default-6 {
+  top: 615px;
+  background-image: url(./img/link-weekly-default-553ede7bcc8e1b4a44c28a9e4a32068c-png.png);
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 16px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-20 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 624px;
+  left: 164px;
+}
+
+.contest-page .link-sep-3 {
+  position: absolute;
+  width: 135px;
+  height: 13px;
+  top: 652px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-21 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 633px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .link-biweekly-3 {
+  top: 701px;
+  background-image: url(./img/link-biweekly-default-f5a8fc3be85b6c9175207fd8fd855d47-png.png);
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 16px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-22 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 710px;
+  left: 164px;
+}
+
+.contest-page .link-sep-4 {
+  position: absolute;
+  width: 135px;
+  height: 13px;
+  top: 738px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-23 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 719px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .link-weekly-default-7 {
+  top: 787px;
+  background-image: url(./img/link-weekly-default-553ede7bcc8e1b4a44c28a9e4a32068c-png.png);
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 16px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-24 {
+  position: absolute;
+  width: 209px;
+  height: 22px;
+  top: 796px;
+  left: 164px;
+}
+
+.contest-page .link-sep-5 {
+  position: absolute;
+  width: 135px;
+  height: 13px;
+  top: 824px;
+  left: 164px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 13px;
+  white-space: nowrap;
+}
+
+.contest-page .link-25 {
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  top: 805px;
+  left: 569px;
+  background-color: #000a200d;
+  border-radius: 5px;
+}
+
+.contest-page .div-bg-layer-4 {
+  width: 313px;
+  height: 946px;
+  top: 999px;
+  left: 675px;
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 13px;
+  box-shadow: 0px 6px 12px #00000005, 0px 4px 8px #00000005, 0px 2px 6px #0000000a;
+}
+
+.contest-page .div-mx {
+  position: absolute;
+  width: 281px;
+  height: 24px;
+  top: 20px;
+  left: 16px;
+}
+
+.contest-page .SVG-3 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 3px;
+  left: 0;
+}
+
+.contest-page .text-wrapper-16 {
+  position: absolute;
+  width: 110px;
+  height: 24px;
+  top: -1px;
+  left: 26px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.contest-page .div-3 {
+  position: absolute;
+  width: 313px;
+  height: 860px;
+  top: 66px;
+  left: 0;
+}
+
+.contest-page .link-26 {
+  position: absolute;
+  width: 5px;
+  height: 22px;
+  top: 31px;
+  left: 23px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffa116;
+  font-size: 12.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-neal-wu {
+  position: absolute;
+  width: 52px;
+  height: 21px;
+  top: 20px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffa116;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-6 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 48px;
+  left: 116px;
+}
+
+.contest-page .link-rating {
+  position: absolute;
+  width: 35px;
+  height: 16px;
+  top: 0;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-27 {
+  position: absolute;
+  width: 4px;
+  height: 16px;
+  top: 0;
+  left: 35px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-28 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 48px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-7 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 48px;
+  left: 201px;
+}
+
+.contest-page .link-attended {
+  position: absolute;
+  width: 48px;
+  height: 16px;
+  top: 0;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 11.6px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-29 {
+  position: absolute;
+  width: 4px;
+  height: 16px;
+  top: 0;
+  left: 48px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #3c3c4399;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-30 {
+  position: absolute;
+  width: 14px;
+  height: 16px;
+  top: 48px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-31 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 18px;
+  left: 50px;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+  background: linear-gradient(180deg, rgb(187, 162, 34) 0%, rgb(238, 218, 149) 100%);
+}
+
+.contest-page .overlap-group-5 {
+  position: relative;
+  width: 46px;
+  height: 56px;
+  top: -8px;
+  left: 2px;
+}
+
+.contest-page .avatar {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 10px;
+  left: 0;
+  border-radius: 9999px;
+  background-image: url(./img/avatar-1574529913-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .img-2 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 0;
+  left: 13px;
+  object-fit: cover;
+}
+
+.contest-page .link-32 {
+  position: absolute;
+  width: 9px;
+  height: 22px;
+  top: 117px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffa116;
+  font-size: 13.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-heltion {
+  position: absolute;
+  width: 44px;
+  height: 21px;
+  top: 106px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626bf;
+  font-size: 13.6px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-8 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 134px;
+  left: 116px;
+}
+
+.contest-page .link-33 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 134px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-9 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 134px;
+  left: 201px;
+}
+
+.contest-page .link-34 {
+  position: absolute;
+  width: 20px;
+  height: 16px;
+  top: 134px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-35 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 104px;
+  left: 50px;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+  background: linear-gradient(180deg, rgb(151, 151, 151) 0%, rgb(197, 200, 208) 100%);
+}
+
+.contest-page .avatar-2 {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 10px;
+  left: 0;
+  border-radius: 9999px;
+  background-image: url(./img/avatar-1587213058-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-36 {
+  position: absolute;
+  width: 7px;
+  height: 22px;
+  top: 203px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffa116;
+  font-size: 11.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-numbr {
+  position: absolute;
+  width: 55px;
+  height: 21px;
+  top: 192px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffa116;
+  font-size: 13.8px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-10 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 220px;
+  left: 116px;
+}
+
+.contest-page .link-37 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 220px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-11 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 220px;
+  left: 201px;
+}
+
+.contest-page .link-38 {
+  position: absolute;
+  width: 14px;
+  height: 16px;
+  top: 220px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-39 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 190px;
+  left: 50px;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+  background: linear-gradient(180deg, rgb(170, 124, 54) 0%, rgb(237, 194, 130) 100%);
+}
+
+.contest-page .default-avatar-jpg {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 10px;
+  left: 0;
+  border-radius: 9999px;
+  background-image: url(./img/default-avatar-jpg-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-40 {
+  position: absolute;
+  width: 9px;
+  height: 22px;
+  top: 289px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #3c3c4399;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-JOHNKRAM {
+  position: absolute;
+  width: 79px;
+  height: 21px;
+  top: 278px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626bf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-12 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 306px;
+  left: 116px;
+}
+
+.contest-page .link-41 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 306px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-13 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 306px;
+  left: 201px;
+}
+
+.contest-page .link-42 {
+  position: absolute;
+  width: 20px;
+  height: 16px;
+  top: 306px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .avatar-wrapper {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 276px;
+  left: 50px;
+  background-color: #ffffff01;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .avatar-3 {
+  height: 50px;
+  border-radius: 9999px;
+  background-image: url(./img/avatar-1593402741-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-43 {
+  position: absolute;
+  width: 8px;
+  height: 22px;
+  top: 375px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #3c3c4399;
+  font-size: 13.6px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-int {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+  top: 364px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626bf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-14 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 392px;
+  left: 116px;
+}
+
+.contest-page .link-44 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 392px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-15 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 392px;
+  left: 201px;
+}
+
+.contest-page .link-45 {
+  position: absolute;
+  width: 14px;
+  height: 16px;
+  top: 392px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .default-avatar-jpg-wrapper {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 362px;
+  left: 50px;
+  background-color: #ffffff01;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .default-avatar-jpg-2 {
+  background-image: url(./img/default-avatar-jpg.png);
+  height: 50px;
+  border-radius: 9999px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-46 {
+  position: absolute;
+  width: 9px;
+  height: 22px;
+  top: 461px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #3c3c4399;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-endlesscheng {
+  position: absolute;
+  width: 87px;
+  height: 21px;
+  top: 450px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626bf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-16 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 478px;
+  left: 116px;
+}
+
+.contest-page .link-47 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 478px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-17 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 478px;
+  left: 201px;
+}
+
+.contest-page .link-48 {
+  position: absolute;
+  width: 20px;
+  height: 16px;
+  top: 478px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-49 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 448px;
+  left: 50px;
+  background-color: #ffffff01;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .avatar-4 {
+  height: 50px;
+  border-radius: 9999px;
+  background-image: url(./img/avatar-1675227068-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-50 {
+  position: absolute;
+  width: 7px;
+  height: 22px;
+  top: 547px;
+  left: 22px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #3c3c4399;
+  font-size: 11.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-arignote {
+  position: absolute;
+  width: 51px;
+  height: 21px;
+  top: 536px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626bf;
+  font-size: 13.7px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-18 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 564px;
+  left: 116px;
+}
+
+.contest-page .link-51 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 564px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-19 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 564px;
+  left: 201px;
+}
+
+.contest-page .link-52 {
+  position: absolute;
+  width: 20px;
+  height: 16px;
+  top: 564px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-53 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 534px;
+  left: 50px;
+  background-color: #ffffff01;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .link-54 {
+  position: absolute;
+  width: 9px;
+  height: 22px;
+  top: 633px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #3c3c4399;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-hank {
+  position: absolute;
+  width: 70px;
+  height: 21px;
+  top: 622px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffa116;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-20 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 650px;
+  left: 116px;
+}
+
+.contest-page .link-55 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 650px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-21 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 650px;
+  left: 201px;
+}
+
+.contest-page .link-56 {
+  position: absolute;
+  width: 20px;
+  height: 16px;
+  top: 650px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-57 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 620px;
+  left: 50px;
+  background-color: #ffffff01;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .avatar-5 {
+  height: 50px;
+  border-radius: 9999px;
+  background-image: url(./img/avatar-1586006495-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .link-58 {
+  position: absolute;
+  width: 9px;
+  height: 22px;
+  top: 719px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #3c3c4399;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-xiaowuc {
+  position: absolute;
+  width: 59px;
+  height: 21px;
+  top: 708px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffa116;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-22 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 736px;
+  left: 116px;
+}
+
+.contest-page .link-59 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 736px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-23 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 736px;
+  left: 201px;
+}
+
+.contest-page .link-60 {
+  position: absolute;
+  width: 14px;
+  height: 16px;
+  top: 736px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-61 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 706px;
+  left: 50px;
+  background-color: #ffffff01;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .link-62 {
+  position: absolute;
+  width: 14px;
+  height: 22px;
+  top: 805px;
+  left: 18px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #3c3c4399;
+  font-size: 11.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.contest-page .link-purplecrayon {
+  position: absolute;
+  width: 86px;
+  height: 21px;
+  top: 794px;
+  left: 116px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffa116;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-24 {
+  position: absolute;
+  width: 38px;
+  height: 16px;
+  top: 822px;
+  left: 116px;
+}
+
+.contest-page .link-63 {
+  position: absolute;
+  width: 27px;
+  height: 16px;
+  top: 822px;
+  left: 158px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .overlap-25 {
+  position: absolute;
+  width: 52px;
+  height: 16px;
+  top: 822px;
+  left: 201px;
+}
+
+.contest-page .link-64 {
+  position: absolute;
+  width: 14px;
+  height: 16px;
+  top: 822px;
+  left: 256px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #262626;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.contest-page .link-65 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 792px;
+  left: 50px;
+  background-color: #ffffff01;
+  border-radius: 9999px;
+  box-shadow: 0px 2px 8px #00000014, 0px 1px 3px #0000000a;
+}
+
+.contest-page .avatar-6 {
+  height: 50px;
+  border-radius: 9999px;
+  background-image: url(./img/avatar-1584377597-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.contest-page .footer {
+  position: absolute;
+  width: 1222px;
+  height: 348px;
+  top: 1796px;
+  left: 136px;
+  background-color: transparent;
+}
+
+.contest-page .text-wrapper-17 {
+  position: absolute;
+  top: 55px;
+  left: 92px;
+  font-family: "Rosario", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 33px;
+  letter-spacing: 0.33px;
+  line-height: normal;
+}
+
+.contest-page .q {
+  position: absolute;
+  width: 83px;
+  height: 68px;
+  top: 41px;
+  left: 7px;
+  object-fit: cover;
+}
+
+.contest-page .text-wrapper-18 {
+  position: absolute;
+  top: 63px;
+  left: 461px;
+  -webkit-text-stroke: 0.4px #000000;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contest-page .text-wrapper-19 {
+  position: absolute;
+  top: 63px;
+  left: 731px;
+  -webkit-text-stroke: 0.4px #000000;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contest-page .text-wrapper-20 {
+  position: absolute;
+  top: 63px;
+  left: 944px;
+  -webkit-text-stroke: 0.4px #000000;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contest-page .text-wrapper-21 {
+  position: absolute;
+  top: 63px;
+  left: 1124px;
+  -webkit-text-stroke: 0.4px #000000;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contest-page .skill-up-your-coding {
+  position: absolute;
+  top: 103px;
+  left: 454px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.contest-page .about-us-career {
+  position: absolute;
+  top: 112px;
+  left: 731px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.contest-page .FAQ-policy-business {
+  position: absolute;
+  top: 112px;
+  left: 944px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.contest-page .whatsapp-support {
+  position: absolute;
+  top: 112px;
+  left: 1124px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.contest-page .line {
+  width: 1200px;
+  top: -1px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.contest-page .line-2 {
+  width: 1200px;
+  top: 308px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.contest-page .text-wrapper-22 {
+  position: absolute;
+  width: 270px;
+  top: 116px;
+  left: 24px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #565656;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+
+.contest-page .facebook {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 250px;
+  left: 35px;
+}
+
+.contest-page .twitter {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 250px;
+  left: 87px;
+}
+
+.contest-page .linkedin {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 250px;
+  left: 139px;
+}
+
+.contest-page .line-3 {
+  width: 1201px;
+  top: 309px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.contest-page .text-wrapper-23 {
+  position: absolute;
+  top: 326px;
+  left: 507px;
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #a3a3a3;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.contest-page .header {
+  position: absolute;
+  width: 1440px;
+  height: 72px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 2px 4px #00000026;
+}
+
+.contest-page .overlap-26 {
+  position: relative;
+  width: 1440px;
+  height: 72px;
+}
+
+.contest-page .div-l-header {
+  position: absolute;
+  width: 1440px;
+  height: 72px;
+  top: 0;
+  left: 0;
+}
+
+.contest-page .div-headernavigation {
+  position: relative;
+  width: 462px;
+  height: 72px;
+  top: -1px;
+  left: 489px;
+}
+
+.contest-page .link-66 {
+  position: absolute;
+  width: 81px;
+  height: 38px;
+  top: 17px;
+  left: 20px;
+}
+
+.contest-page .text-wrapper-24 {
+  position: absolute;
+  height: 30px;
+  top: 3px;
+  left: 14px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #363636;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.4px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.contest-page .text-wrapper-25 {
+  position: absolute;
+  width: 51px;
+  height: 28px;
+  top: 21px;
+  left: 114px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #363636;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.4px;
+  line-height: 28px;
+}
+
+.contest-page .link-67 {
+  position: absolute;
+  width: 109px;
+  height: 38px;
+  top: 17px;
+  left: 200px;
+}
+
+.contest-page .text-wrapper-26 {
+  position: absolute;
+  width: 101px;
+  height: 30px;
+  top: 3px;
+  left: 8px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #363636;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.4px;
+  line-height: 30px;
+}
+
+.contest-page .text-wrapper-27 {
+  position: absolute;
+  width: 59px;
+  height: 22px;
+  top: 24px;
+  left: 348px;
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #1a1a1a;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.contest-page .text-wrapper-28 {
+  position: absolute;
+  top: 14px;
+  left: 93px;
+  font-family: "Rosario", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 33px;
+  letter-spacing: 0.33px;
+  line-height: normal;
+}
+
+.contest-page .q-2 {
+  position: absolute;
+  width: 83px;
+  height: 68px;
+  top: 1px;
+  left: 9px;
+  object-fit: cover;
+}
+
+.contest-page .div-m-login {
+  position: absolute;
+  width: 214px;
+  height: 34px;
+  top: 19px;
+  left: 1198px;
+}
+
+.contest-page .button-login {
+  position: absolute;
+  width: 37px;
+  height: 19px;
+  top: 6px;
+  left: 29px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #2a67b1;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.contest-page .button {
+  position: absolute;
+  width: 109px;
+  height: 34px;
+  top: 0;
+  left: 105px;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #2a67b1;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.contest-page .text-wrapper-29 {
+  /* position: absolute; */
+  width: 51px;
+  height: 19px;
+  top: 6px;
+  left: 29px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 600;
+  color: #565b60;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
